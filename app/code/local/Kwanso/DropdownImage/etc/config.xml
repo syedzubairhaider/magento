@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<config>
+  <modules>
+    <Kwanso_DropdownImage>
+      <version>0.1.0</version>
+    </Kwanso_DropdownImage>
+  </modules>
+  <global>
+    
+    <helpers>
+      <dropdownimage>
+        <class>Kwanso_DropdownImage_Helper</class>
+      </dropdownimage>
+    </helpers>
+    <blocks>
+    <dropdownimage>
+    <class>Kwanso_DropdownImage_Block</class>
+    </dropdownimage>
+  </blocks>
+  </global>
+</config> 
